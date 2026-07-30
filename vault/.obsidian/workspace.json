@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "11cd5af93d87a469",
+    "type": "split",
+    "children": [
+      {
+        "id": "8788f30640b061b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ad96d652600b81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Launch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 - Launch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c96325b4bcf76006",
+    "type": "split",
+    "children": [
+      {
+        "id": "7752efcd35355643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edb917ac1d69d556",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "feb49c03f113a4e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7dee42484a3ce416",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec5ae7bc3c192aad",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ecc410d21d2dca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ddf341706781a5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 - Launch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 04 - Launch"
+            }
+          },
+          {
+            "id": "25ff936e8730d738",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 - Launch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 04 - Launch"
+            }
+          },
+          {
+            "id": "1da6cda9b4853fa7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "84890697afa323fd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "061b39c9fb283376",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 - Launch.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 04 - Launch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b3ad96d652600b81",
+  "lastOpenFiles": [
+    "03 - Content.md",
+    "01 - Website.md",
+    "07 - AI Workflow.md",
+    "06 - Issue Design.md",
+    "05 - Brand.md",
+    "04 - Launch.md",
+    "02 - Pattern/06 - Flowy Lower Skirt/Video Scripts.md",
+    "02 - Pattern/01 - Master Pattern.md",
+    "02 - Pattern/07 - Finishing and Ruffle/Video Scripts.md",
+    "02 - Pattern/06 - Flowy Lower Skirt/Measurements and Final Numbers.md",
+    "02 - Pattern/06 - Flowy Lower Skirt/Illustration Notes.md",
+    "02 - Pattern/04 - Mesh Midsection/Video Scripts.md",
+    "02 - Pattern/04 - Mesh Midsection/Written Pattern.md",
+    "02 - Pattern/04 - Mesh Midsection/Illustration Notes.md",
+    "02 - Pattern/09 - Final Checklist.md",
+    "Archive/Master Project Export - 2026-07-28.md",
+    "02 - Pattern/04 - Mesh Midsection/Measurements and Final Numbers.md",
+    "02 - Pattern/03 - Corset and Straps/Written Pattern.md",
+    "02 - Pattern/03 - Corset and Straps/Video Scripts.md",
+    "02 - Pattern/03 - Corset and Straps/Measurements and Final Numbers.md",
+    "02 - Pattern/03 - Corset and Straps/Illustration Notes.md",
+    "02 - Pattern/02 - Bra/Written Pattern.md",
+    "02 - Pattern/02 - Bra/Video Scripts.md",
+    "02 - Pattern/02 - Bra/Measurements and Final Numbers.md",
+    "02 - Pattern/02 - Bra/Illustration Notes.md",
+    "Archive",
+    "02 - Pattern/08 - Revision Log.md",
+    "02 - Pattern/07 - Finishing and Ruffle",
+    "02 - Pattern/06 - Flowy Lower Skirt",
+    "02 - Pattern/05 - Mini Skirt",
+    "02 - Pattern/04 - Mesh Midsection",
+    "02 - Pattern/03 - Corset and Straps",
+    "02 - Pattern/02 - Bra",
+    "02 - Pattern/Untitled",
+    "02 - Pattern/02 - Bra",
+    "02 - Pattern"
+  ]
+}
