@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Pattern Issue / Batch 01 Concepts</title>
+    <style>
+      :root {
+        --paper: #fffaf5;
+        --silk: #f8eadf;
+        --ink: #1d1716;
+        --muted: #756866;
+        --oxblood: #54110f;
+        --line: rgba(84, 17, 15, 0.18);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: Inter, Arial, sans-serif;
+      }
+
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 24px;
+        padding: 22px clamp(18px, 4vw, 48px);
+        border-bottom: 1px solid var(--line);
+        background: rgba(255, 250, 245, 0.9);
+        backdrop-filter: blur(16px);
+      }
+
+      h1 {
+        margin: 0;
+        color: var(--oxblood);
+        font-family: Georgia, serif;
+        font-size: clamp(1.6rem, 3vw, 3rem);
+        line-height: 1;
+      }
+
+      header p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.82rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      main {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 22px;
+        padding: 28px clamp(18px, 4vw, 48px) 56px;
+      }
+
+      article {
+        border: 1px solid var(--line);
+        background: var(--silk);
+      }
+
+      a {
+        display: grid;
+        color: inherit;
+        text-decoration: none;
+      }
+
+      img {
+        width: 100%;
+        aspect-ratio: 16 / 10;
+        object-fit: contain;
+        background: var(--paper);
+      }
+
+      h2 {
+        margin: 0;
+        padding: 14px 16px 16px;
+        color: var(--muted);
+        font-size: 0.8rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>The Pattern Issue</h1>
+      <p>Batch 01 / 20 UI Concepts</p>
+    </header>
+    <main>
+      <article><a href="concept-01.png"><img src="concept-01.png" alt="Concept 01"><h2>Concept 01</h2></a></article>
+      <article><a href="concept-02.png"><img src="concept-02.png" alt="Concept 02"><h2>Concept 02</h2></a></article>
+      <article><a href="concept-03.png"><img src="concept-03.png" alt="Concept 03"><h2>Concept 03</h2></a></article>
+      <article><a href="concept-04.png"><img src="concept-04.png" alt="Concept 04"><h2>Concept 04</h2></a></article>
+      <article><a href="concept-05.png"><img src="concept-05.png" alt="Concept 05"><h2>Concept 05</h2></a></article>
+      <article><a href="concept-06.png"><img src="concept-06.png" alt="Concept 06"><h2>Concept 06</h2></a></article>
+      <article><a href="concept-07.png"><img src="concept-07.png" alt="Concept 07"><h2>Concept 07</h2></a></article>
+      <article><a href="concept-08.png"><img src="concept-08.png" alt="Concept 08"><h2>Concept 08</h2></a></article>
+      <article><a href="concept-09.png"><img src="concept-09.png" alt="Concept 09"><h2>Concept 09</h2></a></article>
+      <article><a href="concept-10.png"><img src="concept-10.png" alt="Concept 10"><h2>Concept 10</h2></a></article>
+      <article><a href="concept-11.png"><img src="concept-11.png" alt="Concept 11"><h2>Concept 11</h2></a></article>
+      <article><a href="concept-12.png"><img src="concept-12.png" alt="Concept 12"><h2>Concept 12</h2></a></article>
+      <article><a href="concept-13.png"><img src="concept-13.png" alt="Concept 13"><h2>Concept 13</h2></a></article>
+      <article><a href="concept-14.png"><img src="concept-14.png" alt="Concept 14"><h2>Concept 14</h2></a></article>
+      <article><a href="concept-15.png"><img src="concept-15.png" alt="Concept 15"><h2>Concept 15</h2></a></article>
+      <article><a href="concept-16.png"><img src="concept-16.png" alt="Concept 16"><h2>Concept 16</h2></a></article>
+      <article><a href="concept-17.png"><img src="concept-17.png" alt="Concept 17"><h2>Concept 17</h2></a></article>
+      <article><a href="concept-18.png"><img src="concept-18.png" alt="Concept 18"><h2>Concept 18</h2></a></article>
+      <article><a href="concept-19.png"><img src="concept-19.png" alt="Concept 19"><h2>Concept 19</h2></a></article>
+      <article><a href="concept-20.png"><img src="concept-20.png" alt="Concept 20"><h2>Concept 20</h2></a></article>
+    </main>
+  </body>
+</html>
